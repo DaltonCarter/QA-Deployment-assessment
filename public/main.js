@@ -23,7 +23,7 @@ chooseHeader.classList.add('hide')
 yourDuoHeader.classList.add('hide')
 compDuoHeader.classList.add('hide')
 
-const baseUrl = 'http://ec2-18-237-12-133.us-west-2.compute.amazonaws.com/'
+const baseUrl = 'http://18.237.12.133'
 
 const makeRobotChoiceCard = (bot) => {
     return `
