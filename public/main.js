@@ -23,7 +23,7 @@ chooseHeader.classList.add('hide')
 yourDuoHeader.classList.add('hide')
 compDuoHeader.classList.add('hide')
 
-const baseUrl = 'http://18.237.12.133'
+const baseUrl = 'http://localhost:4000'
 
 const makeRobotChoiceCard = (bot) => {
     return `
