@@ -24,7 +24,7 @@ yourDuoHeader.classList.add('hide')
 compDuoHeader.classList.add('hide')
 
 const baseUrl = 'http://localhost:4000'
-const baseUrl2 = 'http://ec2-18-237-12-133.us-west-2.compute.amazonaws.com/'
+const baseUrl2 = 'http://ec2-18-237-12-133.us-west-2.compute.amazonaws.com'
 
 
 
